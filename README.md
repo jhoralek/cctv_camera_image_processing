@@ -1,7 +1,7 @@
 # CCTV camera image processing
 Camera file collecting and processing to video output
 
-## Purposes
+## Purpose
 I've couple of CCTV cameras on my house, and don't have any NVR. All cameras can upload files to FTP server, all the stuff to watch them online over RTSP protocol.
 But I would like to have some records to watch what happend during last couple of days.
 
